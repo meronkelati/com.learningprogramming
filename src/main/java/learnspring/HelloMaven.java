@@ -10,6 +10,7 @@ public class HelloMaven {
        log.info("helloInfo");
        log.debug("hellodebug");
        log.debug("helloeveryone");
+       log.debug("hellofifthone");
 
 
     }
