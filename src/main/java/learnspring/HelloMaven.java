@@ -9,7 +9,7 @@ public class HelloMaven {
     public static void main(String args[]){
        log.info("helloInfo");
        log.debug("hellodebug");
-       log.debug("helloagain");
+
 
     }
 }
